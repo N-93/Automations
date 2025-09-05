@@ -2,7 +2,7 @@ import pyautogui
 import time
 
 # Step 1: Read your code from a file
-file_path = r'C:\Users\nisch\OneDrive\Documents\sctipt.txt'
+file_path = r'C:\text_link.txt'
 with open(file_path, "r", encoding="utf-8") as f:
     code_lines = f.readlines()
 
